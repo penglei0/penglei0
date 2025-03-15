@@ -1,4 +1,8 @@
-For the project I am currently working on, please refer to [Oasis](https://github.com/n-hop/oasis), [BATS Protocol](https://github.com/n-hop/oasis/tree/main/bats#about-bats-protocol)
+Working on following projects:
+- [Oasis](https://github.com/n-hop/oasis)
+- [BATS Protocol](https://github.com/n-hop/oasis/tree/main/bats#about-bats-protocol)
+- [BATS Protocol API](https://github.com/n-hop/bats-protocol-api)
+- BATS codes library
 
 > c++, python, 网络协议设计与优化
 
