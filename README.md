@@ -3,7 +3,7 @@ Working on following projects:
 - [BATS Protocol](https://github.com/n-hop/oasis/tree/main/bats#about-bats-protocol)
 - [BATS Protocol API](https://github.com/n-hop/bats-protocol-api)
 - BATS codes library
-- [MqQuic](https://github.com/microsoft/msquic)
+- [MsQuic](https://github.com/microsoft/msquic)
 
 > c++, python; 高性能编码库, 网络协议, 拥塞控制等优化; 
 
