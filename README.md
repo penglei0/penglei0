@@ -5,7 +5,7 @@ Working on following projects:
 - [BATS codes](https://iest2.ie.cuhk.edu.hk/~whyeung/publications/BATS-full.pdf) library.
 - [MsQuic](https://github.com/microsoft/msquic)
 
-> c++, python; 高性能编码库, 网络协议, 拥塞控制等优化; 
+> c++, python; 高性能网络编码库, 网络协议(L4), 拥塞控制等优化; 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=penglei0&label=Profile%20views&color=0e75b6&style=flat" alt="penglei0" /> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=penglei0&show_icons=true&locale=en" alt="penglei0" /></p>
