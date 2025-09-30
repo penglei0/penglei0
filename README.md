@@ -1,8 +1,11 @@
 Working on following projects:
+
+Maintainer and Architect of:
 - [Oasis](https://github.com/n-hop/oasis)
-- [BATS Protocol](https://github.com/n-hop/oasis/tree/main/bats#about-bats-protocol)
-- [BATS Protocol API](https://github.com/n-hop/bats-protocol-api)
+- [BATS Protocol API/SDK](https://github.com/n-hop/bats-protocol-api)
 - [BATS codes](https://iest2.ie.cuhk.edu.hk/~whyeung/publications/BATS-full.pdf) library.
+
+Contributor of:
 - [MsQuic](https://github.com/microsoft/msquic)
 
 > c++, python; 高性能网络编码库, 网络协议(L4), 拥塞控制等优化; 
