@@ -1,5 +1,3 @@
-Working on following projects:
-
 Maintainer and Architect of:
 - [Oasis](https://github.com/n-hop/oasis)
 - [BATS Protocol API/SDK](https://github.com/n-hop/bats-protocol-api)
