@@ -2,6 +2,7 @@ Maintainer and Architect of:
 - [Oasis](https://github.com/penglei0/oasis)
 - [BATS Protocol API/SDK](https://github.com/n-hop/bats-protocol-api)
 - [BATS codes](https://iest2.ie.cuhk.edu.hk/~whyeung/publications/BATS-full.pdf) library.
+- BATS protocol NEXT
 
 Contributor of:
 - [MsQuic](https://github.com/microsoft/msquic)
