@@ -6,6 +6,7 @@ Maintainer and Architect of:
 
 Contributor of:
 - [MsQuic](https://github.com/microsoft/msquic)
+- [XQuic](https://github.com/alibaba/xquic/)
 
 > c++, python; 高性能网络编码库, 网络协议(L4), 拥塞控制等优化; 
 
