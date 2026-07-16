@@ -9,7 +9,7 @@ Contributor of:
 - [XQuic](https://github.com/alibaba/xquic/)
 - BATS protocol framework (multihops transmission)
 
-> c++, python; 高性能网络编码库, 网络协议(L4), 拥塞控制等优化; 
+> c++, python; 高性能网络编码库, 网络协议(L4), 拥塞控制等优化; 传输协议设计，多路径调度研究;
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=penglei0&label=Profile%20views&color=0e75b6&style=flat" alt="penglei0" /> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=penglei0&show_icons=true&locale=en" alt="penglei0" /></p>
